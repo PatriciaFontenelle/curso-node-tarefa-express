@@ -1,0 +1,14 @@
+body {
+    background-color: #FEFEFE !important;
+    color: #333;
+}
+
+.main-container {
+    padding: 20px;
+    background-color: white;
+    box-shadow: 4px 4px 13px -6px rgba(0,0,0,0.75);
+    border-radius: 20px;
+    min-width: 300px;
+    width: fit-content;
+    margin: 0 auto;
+}
